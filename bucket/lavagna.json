@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lavagna-ai/lavagna-cli/releases/download/v1.0.0/lavagna_1.0.0_windows_amd64.zip",
+            "bin": [
+                "lavagna.exe"
+            ],
+            "hash": "d384067f4efcfba108afb2e831d873d94b3f9ebc66b4cae9937cca1ec03160cb"
+        },
+        "arm64": {
+            "url": "https://github.com/lavagna-ai/lavagna-cli/releases/download/v1.0.0/lavagna_1.0.0_windows_arm64.zip",
+            "bin": [
+                "lavagna.exe"
+            ],
+            "hash": "b396ec3a5980b2c9ff1dc91047058ddc4cc4eb0089e3f95bb7121af2c02584a4"
+        }
+    },
+    "homepage": "https://github.com/lavagna-ai/lavagna-cli",
+    "license": "Proprietary",
+    "description": "Work on Lavagna projects from a terminal"
+}
